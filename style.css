@@ -11,8 +11,7 @@ body{
   display: flex;
   justify-content: center;
    align-items: center;
- 
-}
+ }
 .game{
 height:60vmin;
 width:60vmin;
